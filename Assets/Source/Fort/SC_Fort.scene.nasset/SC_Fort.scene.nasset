@@ -1,0 +1,328 @@
+{
+    "guid": "ece6209e-c97b-44df-1f29-deda870730cd",
+    "source": "../SC_Fort.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d5334131-e3b3-e9cb-49e9-3b2d55d00968",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Fort"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "603319ac-b345-52b9-7ee5-9630d3470829",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Gate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "32916e5b-365f-8cdb-8a93-289468d61f22"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cfbc6497-e9b0-1419-b462-fd1560d7053c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Stairs"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5ce5073f-4f56-1285-65e0-892215412073"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6f4e8160-a1c6-267d-d53b-e4cecaecfd3f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Corner 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8da28154-7997-28eb-cec2-d33ef4743e66"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f39f62fe-37cf-2a5d-8e9a-5570feffd9f9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Corner 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d1727470-78fa-2516-499d-e657ebe3d611"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "55b9a034-efc5-e03d-ce6b-9ff1973866f7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall End 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ae05b95f-1e1e-5629-2d47-465450b1e280"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9c278c98-42be-c359-e828-9f34bb394b23",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall End 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e025e20a-c237-a3ee-2983-64b67c2b7f98"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b66fbd02-b62b-96ed-8d04-50dafd7e1114",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Straight 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ede25d94-7429-9b01-4f38-85589cbdd4e8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "38633c1f-bba0-711d-ead5-1f5d50b4baff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Straight 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "151d2d56-0744-e3cf-7f3e-2ea5bc53cef5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "480ec718-07d0-f41b-27d9-9afad895e0cd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Thin Corner 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2ec8412f-4cbe-8dc9-0c64-80a4f0601804"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1e5c9a3d-7798-faf3-8772-7010b86f0a0a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Thin Corner 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0ebbf17f-322c-5e8a-b1b0-aa0817432897"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5e2e92c9-7feb-6b28-9e20-d6f1631e1495",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Thin Corner 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b2b2a3ce-7e1d-536e-9cd0-9ae6723dc326"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b25cad4b-8e1e-33cb-28aa-e78d013fb899",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Thin Straight 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3f3f29f3-d80f-bd05-cd66-b09be065b8d7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9ae476fc-69e0-8e48-2da8-306f41b5882b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Thin Straight 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8d85d047-0671-680a-5ebe-f691e3d368bd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "71b19ced-121d-7e8d-c8bb-6896b2b0407a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Thin Straight 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "75129f58-6f16-2518-2ea1-8e5e081bae33"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2255b220-19f9-f650-614b-582570989e9b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Thin Straight 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "78902a9a-a0d6-5798-a1c0-a39fb63bb8d5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "182199f7-5a16-723e-5be9-cd4451a0d4f9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Transition"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6a4890e2-73d7-19d3-60b5-6b2e6bada336"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6e51421a-5a96-e5b7-b31f-1551c3c182a4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Walkway Corner 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2413597d-bff5-a9c6-1ea4-5c4feafe712f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0633ad94-c645-4d6e-5891-a00eab0f5b00",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Walkway Corner 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "218af9c3-0f5c-8658-c4aa-68a86762614e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6648effe-66a4-7ee0-325a-78c70ac7439c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Walkway End"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f864a102-5c33-cd98-8345-44180f312adf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "af8cf418-cf56-9643-0836-7f2607be6020",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Walkway Straight 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "729b3d36-28ab-23c8-8c6b-73eedee03013"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5630816b-902b-92b4-66e6-3f8a99c02197",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fort Wall Walkway Straight 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4cc0eb8c-ad7e-0fb4-bc5d-560f2b0c6921"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5e3bd5bf-0fce-e652-2d5a-0bff7a472783",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tower Round"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9166c8c6-1f4f-4ac7-7b7a-3f394488b489"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "ece6209e-c97b-44df-1f29-deda870730cd"
+    },
+    "dependencies": [
+        "32916e5b-365f-8cdb-8a93-289468d61f22",
+        "5ce5073f-4f56-1285-65e0-892215412073",
+        "8da28154-7997-28eb-cec2-d33ef4743e66",
+        "d1727470-78fa-2516-499d-e657ebe3d611",
+        "ae05b95f-1e1e-5629-2d47-465450b1e280",
+        "e025e20a-c237-a3ee-2983-64b67c2b7f98",
+        "ede25d94-7429-9b01-4f38-85589cbdd4e8",
+        "151d2d56-0744-e3cf-7f3e-2ea5bc53cef5",
+        "2ec8412f-4cbe-8dc9-0c64-80a4f0601804",
+        "0ebbf17f-322c-5e8a-b1b0-aa0817432897",
+        "b2b2a3ce-7e1d-536e-9cd0-9ae6723dc326",
+        "3f3f29f3-d80f-bd05-cd66-b09be065b8d7",
+        "8d85d047-0671-680a-5ebe-f691e3d368bd",
+        "75129f58-6f16-2518-2ea1-8e5e081bae33",
+        "78902a9a-a0d6-5798-a1c0-a39fb63bb8d5",
+        "6a4890e2-73d7-19d3-60b5-6b2e6bada336",
+        "2413597d-bff5-a9c6-1ea4-5c4feafe712f",
+        "218af9c3-0f5c-8658-c4aa-68a86762614e",
+        "f864a102-5c33-cd98-8345-44180f312adf",
+        "729b3d36-28ab-23c8-8c6b-73eedee03013",
+        "4cc0eb8c-ad7e-0fb4-bc5d-560f2b0c6921",
+        "9166c8c6-1f4f-4ac7-7b7a-3f394488b489"
+    ]
+}
