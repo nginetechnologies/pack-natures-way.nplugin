@@ -27,6 +27,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Pachira_Aquatica/SC_Pachira.scene.nasset/Pachira 2.mesh.nasset/Pachira 2.mesh.nasset",
+        "thumbnail": "c7c420ce-9944-1a6e-ec5e-edbcca76b3a9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -59,6 +60,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Anthurium/SC_Anthurium.scene.nasset/Anthurium 1.mesh.nasset/Anthurium 1.mesh.nasset",
+        "thumbnail": "271d5da3-88f4-cb17-f2b3-cf45b29e626e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -71,6 +73,7 @@
     "045f8f1f-9c1e-daca-b15b-1ac2a7911b11": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Fort/Material Instances/Fort Trim.mtli.nasset",
+        "thumbnail": "dee0d4a8-6014-83d3-b03b-e6f7670a8223",
         "dependencies": [
             "ade8b81e-1edf-443a-8af7-37473edf1390",
             "d5816872-ef23-4b7c-0d6c-f44d00fb3950",
@@ -78,6 +81,10 @@
             "c5c4af2c-98ea-c390-53b2-1df40d7364e9",
             "30f7772f-a845-49d8-5204-433d92800878"
         ]
+    },
+    "05f935b0-a619-b50f-0e42-a9d5493fa9dd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Dandelion/SC_Dandelion.scene.nasset/Dandelion 4.mesh.nasset/Thumbnails/Dandelion 4.mesh.nasset.tex.nasset"
     },
     "06168302-8556-9fdd-a629-4b8c33a5ee62": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -90,6 +97,10 @@
             "2254767c-1efe-b143-b659-333ddc8465d9",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "066f5925-06bd-3f0f-7c63-f9e47c8d42eb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Weed_Plant_02/SC_Weed.scene.nasset/Weed 2.mesh.nasset/Thumbnails/Weed 2.mesh.nasset.tex.nasset"
     },
     "0851d03b-df1c-58f1-5c10-32a7259826c2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -121,6 +132,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fern/SC_Fern.scene.nasset/Fern 1.mesh.nasset/Fern 1.mesh.nasset",
+        "thumbnail": "c67f0003-ff96-3bfb-ad8a-1a57568c45b7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -138,6 +150,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Weed_Plant_02/SC_Weed.scene.nasset/Weed 4.mesh.nasset/Weed 4.mesh.nasset",
+        "thumbnail": "f6797f9c-496b-f045-1100-fe7ccad6d7ec",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -171,6 +184,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "0db677c0-f1a2-96ea-0127-653a4ce70b5d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Dry_Branches/SC_Dry_Branches.scene.nasset/Dry Branch 2.mesh.nasset/Thumbnails/Dry Branch 2.mesh.nasset.tex.nasset"
+    },
     "0e22e00f-5c36-cd68-37c0-2daa2a9f2f50": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -199,6 +216,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Thin Corner 2.mesh.nasset/Fort Wall Thin Corner 2.mesh.nasset",
+        "thumbnail": "ae59fdf0-1536-021a-fa92-a72dd9ec84ad",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -213,15 +231,21 @@
     "0efa737d-54fa-3fd9-95f9-ffab329d438d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Fire_Pit/SM_Fire_Pit.scene.nasset/SM_Fire_Pit.mesh.nasset",
+        "path": "Assets/Source/Fire_Pit/Fire Pit.scene.nasset/Fire Pit.mesh.nasset",
+        "thumbnail": "2f431041-8710-73c3-92a3-3f87651e7143",
         "dependencies": [
             "26fef04b-19a8-0788-55b7-24f76c40edc1",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "0f60fff4-5957-4fe3-61ce-e20fcffd184d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Fir Sapling 2.mesh.nasset/Thumbnails/Fir Sapling 2.mesh.nasset.tex.nasset"
+    },
     "0fdb4180-5857-f735-6d38-f6cdee804a05": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Fir_Sapling/Material Instances/Fir Sapling Twigs.mtli.nasset",
+        "thumbnail": "d11c7aaa-034e-f797-9fcb-abcc6fd64224",
         "dependencies": [
             "ac0befd3-fdfd-491c-a266-f5a5a1ebd6b5",
             "b0721a0d-a384-c624-d06f-fdfa79deac8d"
@@ -243,6 +267,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fern/SC_Fern.scene.nasset/Fern 3.mesh.nasset/Fern 3.mesh.nasset",
+        "thumbnail": "9bdd9dc8-a3d3-c81c-ae05-110565c3e316",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -252,6 +277,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "10cfd03f-a44e-d154-f9d3-1e208cd94032": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Clover/SC_Clover.scene.nasset/Clover 1.mesh.nasset/Thumbnails/Clover 1.mesh.nasset.tex.nasset"
+    },
+    "112b0eed-1989-7846-daff-b7e274746293": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Stump/Stump.scene.nasset/Thumbnails/Stump.mesh.nasset.tex.nasset"
+    },
     "11686566-d5aa-9902-2855-e5973d318746": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Fir_Sapling/textures/T_Fir_Sapling_Bark_D.tex.nasset"
@@ -259,6 +292,7 @@
     "11c286a0-b89b-d3b8-39b3-b4f555bd7e1c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Pine_Roots/Material Instances/Roots 1.mtli.nasset",
+        "thumbnail": "1da47a19-e67c-23e7-0ccf-3377f87bbcf3",
         "dependencies": [
             "ade8b81e-1edf-443a-8af7-37473edf1390",
             "73b62d51-4c99-138d-fd07-a134f486e6c9",
@@ -270,7 +304,8 @@
     "11dcac0d-4214-e2f6-8626-597b428fd99c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/Shrub_Sorrel/SC_Clover.scene.nasset/Clover 3.mesh.nasset/Clover 3.mesh.nasset",
+        "path": "Assets/Source/Clover/SC_Clover.scene.nasset/Clover 3.mesh.nasset/Clover 3.mesh.nasset",
+        "thumbnail": "bd1a3b70-a5ce-221f-ffd6-92708c263e8b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -311,6 +346,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Nettle/SC_Nettle.scene.nasset/Nettle 5.mesh.nasset/Nettle 5.mesh.nasset",
+        "thumbnail": "4d6f00cd-d103-163c-bdb9-c4f3809e8316",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -344,10 +380,22 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "144d5f23-5283-f829-c2ae-a6f0272d08bc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Anthurium/SC_Anthurium.scene.nasset/Anthurium 4.mesh.nasset/Thumbnails/Anthurium 4.mesh.nasset.tex.nasset"
+    },
+    "14639dd9-7118-ef7f-566c-bfeb1367ae69": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Pachira_Aquatica/Material Instances/Thumbnails/Pachira Leaves.mtli.nasset.tex.nasset"
+    },
+    "147801c0-c99e-5583-aba5-30c6a91fa0a7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Walkway Corner 1.mesh.nasset/Thumbnails/Fort Wall Walkway Corner 1.mesh.nasset.tex.nasset"
+    },
     "150e6b45-dbe9-3542-d58d-a5c4f7521207": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Shrub_Sorrel/SC_Clover.scene.nasset/Clover 1.mesh.nasset/Clover 1 Clover.mesh.nasset",
+        "path": "Assets/Source/Clover/SC_Clover.scene.nasset/Clover 1.mesh.nasset/Clover 1 Clover.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -360,6 +408,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Straight 2.mesh.nasset/Fort Wall Straight 2.mesh.nasset",
+        "thumbnail": "bd1e120d-5ffe-dc09-2abe-e54cc3bec016",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -370,6 +419,10 @@
             "e1c78467-4247-9c7d-7886-1550fe133666",
             "00d7373c-7ff3-bffb-ad9c-a496c0142a67"
         ]
+    },
+    "15668753-5c07-6f53-945d-2ddd0f939c7a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Calathea/SC_Calathea.scene.nasset/Calathea 5.mesh.nasset/Thumbnails/Calathea 5.mesh.nasset.tex.nasset"
     },
     "159ca748-7c68-7035-21f1-b1735c475ea0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -417,10 +470,23 @@
             "5372d48c-8149-ebf6-aeca-94b599ad7ec3"
         ]
     },
+    "1da47a19-e67c-23e7-0ccf-3377f87bbcf3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Pine_Roots/Material Instances/Thumbnails/Roots 1.mtli.nasset.tex.nasset"
+    },
+    "1db2939d-efde-a585-33c4-a456d57ff0bf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Dry_Branches/SC_Dry_Branches.scene.nasset/Dry Branch 3.mesh.nasset/Thumbnails/Dry Branch 3.mesh.nasset.tex.nasset"
+    },
+    "1def1a7e-10ec-3788-0fa6-770ce0144aab": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Rock_Moss_2/SC_Rock_Moss_2.scene.nasset/Rock Moss 12.mesh.nasset/Thumbnails/Rock Moss 12.mesh.nasset.tex.nasset"
+    },
     "1e122c77-c0de-a123-8756-7ef33d10072a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Rock_Moss_2/SC_Rock_Moss_2.scene.nasset/Rock Moss 12.mesh.nasset/Rock Moss 12.mesh.nasset",
+        "thumbnail": "1def1a7e-10ec-3788-0fa6-770ce0144aab",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -429,6 +495,10 @@
             "cb448f97-6800-3fdc-03d4-2856decd0476",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "1e4e3319-0ac1-ec7c-4d8d-8ffa8d177795": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Corner 1.mesh.nasset/Thumbnails/Fort Wall Corner 1.mesh.nasset.tex.nasset"
     },
     "1e56798b-b3c0-cf18-5fe4-489efbcafdbf": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -442,10 +512,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Anthurium/textures/T_Anthurium_D.tex.nasset"
     },
+    "1fb8edfa-8db8-3d0e-add7-c956c5de7b74": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Thin Straight 4.mesh.nasset/Thumbnails/Fort Wall Thin Straight 4.mesh.nasset.tex.nasset"
+    },
     "1fc49bc7-1656-d7f3-f38f-2cc479c4c962": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Cylinder.125.mesh.nasset/Cylinder.125 Fir Sapling Twigs.mesh.nasset",
+        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Fir Sapling 3.mesh.nasset/Fir Sapling 3 Fir Sapling Twigs.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -469,7 +543,7 @@
     "20fde707-2e5c-b956-da83-71f7e8ea9646": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/Coastal_Rocks/SM_Coastal_Rocks.scene.nasset/SM_Coastal_Rocks.scene.nasset",
+        "path": "Assets/Source/Coastal_Rocks/Coastal Rocks.scene.nasset/Coastal Rocks.scene.nasset",
         "dependencies": [
             "ea194533-dc51-78df-3531-4967aa955c55",
             "d0babfab-7ece-063f-c5bf-80e33423db8f",
@@ -491,6 +565,7 @@
     "2160c2c8-5adf-a473-3b55-a563accacf35": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Rock_Moss_1/Material Instances/Rock Moss 1.mtli.nasset",
+        "thumbnail": "d9d6bb39-2cbb-c09d-d500-c83232ae1b35",
         "dependencies": [
             "ade8b81e-1edf-443a-8af7-37473edf1390",
             "9cff6e7e-f0bb-aabe-4b68-9942e9c54fd3",
@@ -503,6 +578,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Walkway Corner 2.mesh.nasset/Fort Wall Walkway Corner 2.mesh.nasset",
+        "thumbnail": "e2df7e79-c1f0-41dd-058c-1afea4ed870f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -530,6 +606,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Pachira_Aquatica/SC_Pachira.scene.nasset/Pachira 1.mesh.nasset/Pachira 1.mesh.nasset",
+        "thumbnail": "cc1bba05-b144-acd1-8c63-b2e2047e7dfb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -541,6 +618,10 @@
             "3fb68485-a618-1aee-0de5-46dd0544befc"
         ]
     },
+    "22002f83-cb9b-f9cf-0f6b-f950fe4ac2bf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Gate.mesh.nasset/Thumbnails/Fort Gate.mesh.nasset.tex.nasset"
+    },
     "2253e334-8823-4f14-dadf-41cb159e7d49": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Fort/textures/T_Brick_Trim_N.tex.nasset"
@@ -548,6 +629,7 @@
     "2254767c-1efe-b143-b659-333ddc8465d9": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Celandine/Material Instances/Celandine.mtli.nasset",
+        "thumbnail": "e7737665-6516-204d-75fe-57ffb32d0afc",
         "dependencies": [
             "7942eb3f-d202-4030-a7be-03f4d886f43d",
             "a8258843-5e66-1227-c3e8-8ff2a667a9e4",
@@ -559,7 +641,7 @@
     "22dc3552-d2e4-abad-798e-aeeb49f78ee0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Cylinder.069.mesh.nasset/Cylinder.069 Fir Sapling Branches.mesh.nasset",
+        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Fir Sapling 2.mesh.nasset/Fir Sapling 2 Fir Sapling Branches.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -568,10 +650,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "233d8209-594b-445e-4b88-f0fed5d21f32": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Stump/Material Instances/Thumbnails/Stump.mtli.nasset.tex.nasset"
+    },
     "2378158f-3e86-6356-64bf-a9b52f8eeef5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Anthurium/SC_Anthurium.scene.nasset/Anthurium 2.mesh.nasset/Anthurium 2.mesh.nasset",
+        "thumbnail": "9beead6c-f450-6af9-8b09-f6223d75ecdd",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -585,6 +672,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Walkway Corner 1.mesh.nasset/Fort Wall Walkway Corner 1.mesh.nasset",
+        "thumbnail": "147801c0-c99e-5583-aba5-30c6a91fa0a7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -611,6 +699,7 @@
     "2454c89e-000a-4b24-2457-44bdfba5d5f0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Calathea/Material Instances/Calathea.mtli.nasset",
+        "thumbnail": "ab8d197f-1234-f2a1-b66b-316fef3ea126",
         "dependencies": [
             "7942eb3f-d202-4030-a7be-03f4d886f43d",
             "f3233197-a46b-f9e3-e961-14bdb3065a87",
@@ -619,10 +708,15 @@
             "886dd982-6807-950d-292c-e24a07f368fb"
         ]
     },
+    "24850638-ceab-12cd-63f6-283cd2447c67": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Thin Corner 1.mesh.nasset/Thumbnails/Fort Wall Thin Corner 1.mesh.nasset.tex.nasset"
+    },
     "249042b9-5303-4e51-fa5b-e980ef6e0683": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Anthurium/SC_Anthurium.scene.nasset/Anthurium 4.mesh.nasset/Anthurium 4.mesh.nasset",
+        "thumbnail": "144d5f23-5283-f829-c2ae-a6f0272d08bc",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -655,6 +749,7 @@
     "26fef04b-19a8-0788-55b7-24f76c40edc1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Fire_Pit/Material Instances/Fire Pit.mtli.nasset",
+        "thumbnail": "f5212422-a526-5b07-0803-232bae2aaf04",
         "dependencies": [
             "ade8b81e-1edf-443a-8af7-37473edf1390",
             "d177bcd6-d788-d5fb-1f66-4ab4c0562f5a",
@@ -663,9 +758,14 @@
             "91bfa889-4c1a-cb88-d0a2-91371dd5e894"
         ]
     },
+    "271d5da3-88f4-cb17-f2b3-cf45b29e626e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Anthurium/SC_Anthurium.scene.nasset/Anthurium 1.mesh.nasset/Thumbnails/Anthurium 1.mesh.nasset.tex.nasset"
+    },
     "2734db27-6210-c3bf-3ce0-6bf76d995f62": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Nettle/Material Instances/Nettle.mtli.nasset",
+        "thumbnail": "c1930f39-b710-cbb0-d74b-8eabeab246d3",
         "dependencies": [
             "7942eb3f-d202-4030-a7be-03f4d886f43d",
             "9c9446dd-870f-4e2b-a312-9a3371262e65",
@@ -693,7 +793,7 @@
     "27cac458-42d3-ffc6-719e-c07884126da5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Cylinder.mesh.nasset/Cylinder Fir Sapling Twigs.mesh.nasset",
+        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Fir Sapling 1.mesh.nasset/Fir Sapling 1 Fir Sapling Twigs.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -730,6 +830,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Nettle/SC_Nettle.scene.nasset/Nettle 1.mesh.nasset/Nettle 1.mesh.nasset",
+        "thumbnail": "e51fdfe9-bb87-08c9-8f0d-c1bdf8a75ec9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -751,10 +852,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "2ec78944-703b-4117-2a3e-08e8d8e8ce60": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Pine_Roots/Material Instances/Thumbnails/Roots 2.mtli.nasset.tex.nasset"
+    },
     "2ec8412f-4cbe-8dc9-0c64-80a4f0601804": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Thin Corner 1.mesh.nasset/Fort Wall Thin Corner 1.mesh.nasset",
+        "thumbnail": "24850638-ceab-12cd-63f6-283cd2447c67",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -819,6 +925,10 @@
             "61db3415-1944-6226-691f-1db5f66be489"
         ]
     },
+    "30b2500f-ad1a-2c22-ab06-ff1977c3128a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fern/Material Instances/Thumbnails/Fern.mtli.nasset.tex.nasset"
+    },
     "30b4a1cd-fe5b-fe12-d075-94205d6cd15e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -834,6 +944,10 @@
     "30f7772f-a845-49d8-5204-433d92800878": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Fort/textures/T_Brick_Trim_R.tex.nasset"
+    },
+    "316eb729-bd77-4d06-4c9b-8f774ec0f43b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Rock_Moss_1/SC_Rock_Moss_1.scene.nasset/Rock Moss 2.mesh.nasset/Thumbnails/Rock Moss 2.mesh.nasset.tex.nasset"
     },
     "31abd7ea-c245-3297-d64e-0094f2b6ad57": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -851,6 +965,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fern/SC_Fern.scene.nasset/Fern 4.mesh.nasset/Fern 4.mesh.nasset",
+        "thumbnail": "ac02ffea-8034-714e-23ac-ab5ef2fb9ebb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -887,7 +1002,8 @@
     "32916e5b-365f-8cdb-8a93-289468d61f22": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Plane.019.mesh.nasset/Plane.019.mesh.nasset",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Gate.mesh.nasset/Fort Gate.mesh.nasset",
+        "thumbnail": "22002f83-cb9b-f9cf-0f6b-f950fe4ac2bf",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -915,6 +1031,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Rock_Moss_1/textures/T_Rock_Moss_1_R.tex.nasset"
     },
+    "350b9e82-be8d-b983-88f8-3e82e210b098": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Thin Straight 2.mesh.nasset/Thumbnails/Fort Wall Thin Straight 2.mesh.nasset.tex.nasset"
+    },
+    "352817af-d453-1f61-366b-f6e58f10f012": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Celandine/SC_Celandine.scene.nasset/Celandine 5.mesh.nasset/Thumbnails/Celandine 5.mesh.nasset.tex.nasset"
+    },
     "36390625-fbd9-40fd-4237-07bdddc76895": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -927,9 +1051,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "39383fb2-a814-3a3d-5df0-fa9aeda0d8b6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Pachira_Aquatica/SC_Pachira.scene.nasset/Pachira 4.mesh.nasset/Thumbnails/Pachira 4.mesh.nasset.tex.nasset"
+    },
     "39c7fcd8-66fa-0ddf-4aa5-0cbd28cfbb10": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Fern/Material Instances/Fern.mtli.nasset",
+        "thumbnail": "30b2500f-ad1a-2c22-ab06-ff1977c3128a",
         "dependencies": [
             "7942eb3f-d202-4030-a7be-03f4d886f43d",
             "43535dff-e447-2f43-7858-779f651838af",
@@ -953,6 +1082,7 @@
     "3d6745e9-04ef-6aa7-e9ee-278f8bed536a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Pachira_Aquatica/Material Instances/Pachira Leaves.mtli.nasset",
+        "thumbnail": "14639dd9-7118-ef7f-566c-bfeb1367ae69",
         "dependencies": [
             "7942eb3f-d202-4030-a7be-03f4d886f43d",
             "6ac8152d-1cde-0a7f-60b3-a2d0a42fede2",
@@ -964,7 +1094,8 @@
     "3dababa1-ea0c-ade1-2c70-e0aeb34d8dd7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/Shrub_Sorrel/SC_Clover.scene.nasset/Clover 4.mesh.nasset/Clover 4.mesh.nasset",
+        "path": "Assets/Source/Clover/SC_Clover.scene.nasset/Clover 4.mesh.nasset/Clover 4.mesh.nasset",
+        "thumbnail": "7d6e842c-1f1a-bed0-4734-6bea4db3725a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -994,6 +1125,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Thin Straight 1.mesh.nasset/Fort Wall Thin Straight 1.mesh.nasset",
+        "thumbnail": "8ce82da2-02b4-a006-2758-fcd584ae4bc7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1020,7 +1152,7 @@
     "4009dcfd-f211-024a-e409-08696098b8aa": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Plane.019.mesh.nasset/Plane.019 Fort Wall.mesh.nasset",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Gate.mesh.nasset/Fort Gate Fort Wall.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1029,10 +1161,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4085a7ba-4243-ccd9-8fa4-eb2c6c6e790d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Walkway Straight 2.mesh.nasset/Thumbnails/Fort Wall Walkway Straight 2.mesh.nasset.tex.nasset"
+    },
+    "412cc2ec-65ec-7b0c-41c8-c8356b0b53df": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Dead_Tree_Trunk/Material Instances/Thumbnails/Dead Trunk.mtli.nasset.tex.nasset"
+    },
     "41d427e2-6ef9-e673-cc18-f194d2b6c046": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Weed_Plant_02/SC_Weed.scene.nasset/Weed 3.mesh.nasset/Weed 3.mesh.nasset",
+        "thumbnail": "ee0c75c1-37d2-7e29-f915-3ac44899bc8b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1041,6 +1182,14 @@
             "4c0db56d-d3f6-86c5-31fc-3cedda3f5468",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "421b05a4-297f-1753-90fd-20decaa46ac7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Corner 2.mesh.nasset/Thumbnails/Fort Wall Corner 2.mesh.nasset.tex.nasset"
+    },
+    "426abfde-1f5a-63c7-e393-d4fc96653692": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Fir Sapling 3.mesh.nasset/Thumbnails/Fir Sapling 3.mesh.nasset.tex.nasset"
     },
     "42b86751-ed59-851b-83aa-6ceb96731be2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1053,6 +1202,10 @@
             "e1c78467-4247-9c7d-7886-1550fe133666",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "43042b5b-f660-c8fe-0d68-8b4fa59ae485": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Anthurium/SC_Anthurium.scene.nasset/Anthurium 5.mesh.nasset/Thumbnails/Anthurium 5.mesh.nasset.tex.nasset"
     },
     "4317934a-fa91-7790-0121-6980c7a0b5ac": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1082,6 +1235,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4598683f-0e65-deee-b5e8-c3b74e772a74": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Dry_Branches/Material Instances/Thumbnails/Dry Branches.mtli.nasset.tex.nasset"
+    },
+    "46732b36-1485-91a3-4f72-fc9a46e7eac2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Celandine/SC_Celandine.scene.nasset/Celandine 2.mesh.nasset/Thumbnails/Celandine 2.mesh.nasset.tex.nasset"
+    },
+    "46bc6175-b1f8-0e58-d2fa-dc92884ee9bf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Nettle/SC_Nettle.scene.nasset/Nettle 2.mesh.nasset/Thumbnails/Nettle 2.mesh.nasset.tex.nasset"
+    },
     "474d2bad-fbd6-5d66-4c0e-074ba6c98d5f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1110,6 +1275,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Stump/textures/T_Stump_N.tex.nasset"
     },
+    "4ac69947-2834-d153-bc2b-52f74cdf2a13": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Rock_Moss_1/SC_Rock_Moss_1.scene.nasset/Rock Moss 1.mesh.nasset/Thumbnails/Rock Moss 1.mesh.nasset.tex.nasset"
+    },
     "4c0db56d-d3f6-86c5-31fc-3cedda3f5468": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1126,6 +1295,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Walkway Straight 2.mesh.nasset/Fort Wall Walkway Straight 2.mesh.nasset",
+        "thumbnail": "4085a7ba-4243-ccd9-8fa4-eb2c6c6e790d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1149,10 +1319,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4d6f00cd-d103-163c-bdb9-c4f3809e8316": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Nettle/SC_Nettle.scene.nasset/Nettle 5.mesh.nasset/Thumbnails/Nettle 5.mesh.nasset.tex.nasset"
+    },
     "4e3f4b61-df00-81c2-5772-265bc40a1701": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Dry_Branches/SC_Dry_Branches.scene.nasset/Dry Branch 2.mesh.nasset/Dry Branch 2.mesh.nasset",
+        "thumbnail": "0db677c0-f1a2-96ea-0127-653a4ce70b5d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1162,10 +1337,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4eda09ba-9f9a-66f8-c634-d2e91451ee22": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/Material Instances/Thumbnails/Fort Plaster.mtli.nasset.tex.nasset"
+    },
+    "4f1c059a-7712-0eb3-3fb6-d579b850b664": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Rock_Moss_1/SC_Rock_Moss_1.scene.nasset/Rock Moss 3.mesh.nasset/Thumbnails/Rock Moss 3.mesh.nasset.tex.nasset"
+    },
     "4f52955e-fd91-ae60-df8c-cc07d3a9d4d6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Calathea/SC_Calathea.scene.nasset/Calathea 5.mesh.nasset/Calathea 5.mesh.nasset",
+        "thumbnail": "15668753-5c07-6f53-945d-2ddd0f939c7a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1194,7 +1378,8 @@
     "5372d48c-8149-ebf6-aeca-94b599ad7ec3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Cylinder.125.mesh.nasset/Cylinder.125.mesh.nasset",
+        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Fir Sapling 3.mesh.nasset/Fir Sapling 3.mesh.nasset",
+        "thumbnail": "426abfde-1f5a-63c7-e393-d4fc96653692",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1205,6 +1390,10 @@
             "0fdb4180-5857-f735-6d38-f6cdee804a05",
             "1fc49bc7-1656-d7f3-f38f-2cc479c4c962"
         ]
+    },
+    "5443e9c3-9613-db4f-2b30-53d8c18ac73b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Rock_Moss_1/SC_Rock_Moss_1.scene.nasset/Rock Moss 7.mesh.nasset/Thumbnails/Rock Moss 7.mesh.nasset.tex.nasset"
     },
     "5461a15b-702f-f111-b842-c3c462f0809d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1261,7 +1450,7 @@
     "55f92a43-0d9e-a054-0fe7-27eb1e4ce80b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Cylinder.125.mesh.nasset/Cylinder.125 Fir Sapling Branches.mesh.nasset",
+        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Fir Sapling 3.mesh.nasset/Fir Sapling 3 Fir Sapling Branches.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1310,6 +1499,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Calathea/SC_Calathea.scene.nasset/Calathea 3.mesh.nasset/Calathea 3.mesh.nasset",
+        "thumbnail": "db617bd7-7e5a-0265-99b4-eb83f73be6a9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1323,6 +1513,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Rock_Moss_2/SC_Rock_Moss_2.scene.nasset/Rock Moss 11.mesh.nasset/Rock Moss 11.mesh.nasset",
+        "thumbnail": "f556a072-db35-2a71-8a0d-ae4836b2d538",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1336,6 +1527,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Celandine/SC_Celandine.scene.nasset/Celandine 2.mesh.nasset/Celandine 2.mesh.nasset",
+        "thumbnail": "46732b36-1485-91a3-4f72-fc9a46e7eac2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1348,6 +1540,7 @@
     "5bc0cbd2-bcef-b230-0efe-5b6283662da5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Weed_Plant_02/Material Instances/Weed.mtli.nasset",
+        "thumbnail": "912e58dc-6e3f-a6d4-a5ca-178e71fa6400",
         "dependencies": [
             "7942eb3f-d202-4030-a7be-03f4d886f43d",
             "1669c63b-eb89-20b4-85a2-3914e8615889",
@@ -1360,6 +1553,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Stairs.mesh.nasset/Fort Stairs.mesh.nasset",
+        "thumbnail": "fbad8bce-86e0-d279-b1d5-d0159b3569a2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1383,6 +1577,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5dd6ad89-d630-1608-10ca-1434eb1707ab": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Weed_Plant_02/SC_Weed.scene.nasset/Weed 5.mesh.nasset/Thumbnails/Weed 5.mesh.nasset.tex.nasset"
+    },
     "5f03cd17-54df-4d19-40f2-74b0878ebe1a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1399,6 +1597,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Rock_Moss_2/SC_Rock_Moss_2.scene.nasset/Rock Moss 9.mesh.nasset/Rock Moss 9.mesh.nasset",
+        "thumbnail": "66850e0d-28f7-3062-544e-c84b13dfeac0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1411,7 +1610,7 @@
     "5fa2dbae-ddbc-76ea-8067-fdb6394bbed3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/Stump/SM_Stump.scene.nasset/SM_Stump.scene.nasset",
+        "path": "Assets/Source/Stump/Stump.scene.nasset/Stump.scene.nasset",
         "dependencies": [
             "e9bfe46c-44e3-2587-ecbb-b71980d85bc6",
             "ab661e00-900e-3558-b147-223bb44d8401",
@@ -1425,6 +1624,7 @@
     "607a466b-2d4f-efd4-1c1a-dd811c7e33bf": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Pachira_Aquatica/Material Instances/Pachira Bark.mtli.nasset",
+        "thumbnail": "f88150d9-0a81-6618-1e11-b098cafe0712",
         "dependencies": [
             "ade8b81e-1edf-443a-8af7-37473edf1390",
             "e83f6a53-b810-d6ab-0af8-dd049f3a8456",
@@ -1436,7 +1636,8 @@
     "61082c55-f789-0a80-6549-6d0896aaa9f7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/Shrub_Sorrel/SC_Clover.scene.nasset/Clover 2.mesh.nasset/Clover 2.mesh.nasset",
+        "path": "Assets/Source/Clover/SC_Clover.scene.nasset/Clover 2.mesh.nasset/Clover 2.mesh.nasset",
+        "thumbnail": "7d5f84b6-2277-ce29-b4f9-688b2f9e718b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1446,10 +1647,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "611e3302-548f-c32a-57c9-ab4b03c72a07": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Rock_Moss_1/SC_Rock_Moss_1.scene.nasset/Rock Moss 5.mesh.nasset/Thumbnails/Rock Moss 5.mesh.nasset.tex.nasset"
+    },
     "61db3415-1944-6226-691f-1db5f66be489": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Anthurium/SC_Anthurium.scene.nasset/Anthurium 6.mesh.nasset/Anthurium 6.mesh.nasset",
+        "thumbnail": "95203e20-e61e-1391-860f-4ee5d1117c76",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1458,6 +1664,10 @@
             "0851d03b-df1c-58f1-5c10-32a7259826c2",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "61e4bb45-1fb1-ccf9-bfe7-a02ea44a7b62": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Rock_Moss_2/SC_Rock_Moss_2.scene.nasset/Rock Moss 10.mesh.nasset/Thumbnails/Rock Moss 10.mesh.nasset.tex.nasset"
     },
     "61fd20df-576b-f8e1-2da4-845c142bf966": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1474,7 +1684,8 @@
     "62ac63dd-50f2-2fe6-6fe9-4685bb3ca81e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Dead_Tree_Trunk/SM_Dead_Trunk.scene.nasset/SM_Dead_Trunk.mesh.nasset",
+        "path": "Assets/Source/Dead_Tree_Trunk/Dead Trunk.scene.nasset/Dead Trunk.mesh.nasset",
+        "thumbnail": "d43f4c2e-95c3-eb3f-ac9c-9b06e88106e6",
         "dependencies": [
             "b10e88e2-6174-8b8e-4b9f-df44e2feca5b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -1495,7 +1706,7 @@
     "646fcbf2-7346-0086-6557-ce35122a8b86": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Shrub_Sorrel/SC_Clover.scene.nasset/Clover 4.mesh.nasset/Clover 4 Clover.mesh.nasset",
+        "path": "Assets/Source/Clover/SC_Clover.scene.nasset/Clover 4.mesh.nasset/Clover 4 Clover.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1515,6 +1726,10 @@
             "e1c78467-4247-9c7d-7886-1550fe133666",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "66850e0d-28f7-3062-544e-c84b13dfeac0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Rock_Moss_2/SC_Rock_Moss_2.scene.nasset/Rock Moss 9.mesh.nasset/Thumbnails/Rock Moss 9.mesh.nasset.tex.nasset"
     },
     "695003ca-c7a6-8283-01cf-44a80412127d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1558,6 +1773,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Transition.mesh.nasset/Fort Wall Transition.mesh.nasset",
+        "thumbnail": "bc6cb42c-218a-6604-f692-ddc7fa5e06c3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1584,6 +1800,14 @@
     "6ac8152d-1cde-0a7f-60b3-a2d0a42fede2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Pachira_Aquatica/textures/T_Pachira_Leaves_D.tex.nasset"
+    },
+    "6ae1bcba-16ee-e865-a41c-b39f49638d26": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Clover/Material Instances/Thumbnails/Clover.mtli.nasset.tex.nasset"
+    },
+    "6bbfe664-5de0-1a61-c8dc-97f79ead6896": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fire_Pit/Fire Pit.scene.nasset/Thumbnails/Fire Pit.scene.nasset.tex.nasset"
     },
     "6cdc4aa8-a15f-954d-729c-e99f4167e152": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1664,7 +1888,7 @@
     },
     "714043c0-d274-d4e2-c5f1-37018e7385ef": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Shrub_Sorrel/textures/T_Shrub_R.tex.nasset"
+        "path": "Assets/Source/Clover/textures/T_Shrub_R.tex.nasset"
     },
     "7149f2a2-3b3b-13e4-7577-47de0850319e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1686,6 +1910,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Walkway Straight 1.mesh.nasset/Fort Wall Walkway Straight 1.mesh.nasset",
+        "thumbnail": "dbd33d9e-6581-fc84-8a78-6094856576d2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1719,6 +1944,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Thin Straight 3.mesh.nasset/Fort Wall Thin Straight 3.mesh.nasset",
+        "thumbnail": "ff017cf0-3c96-3313-6782-a13ec7c65f8a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1734,6 +1960,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Celandine/SC_Celandine.scene.nasset/Celandine 5.mesh.nasset/Celandine 5.mesh.nasset",
+        "thumbnail": "352817af-d453-1f61-366b-f6e58f10f012",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1746,7 +1973,8 @@
     "7635895b-f205-0180-d9f3-e2111d4ebd5b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Cylinder.069.mesh.nasset/Cylinder.069.mesh.nasset",
+        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Fir Sapling 2.mesh.nasset/Fir Sapling 2.mesh.nasset",
+        "thumbnail": "0f60fff4-5957-4fe3-61ce-e20fcffd184d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1774,6 +2002,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Rock_Moss_1/SC_Rock_Moss_1.scene.nasset/Rock Moss 5.mesh.nasset/Rock Moss 5.mesh.nasset",
+        "thumbnail": "611e3302-548f-c32a-57c9-ab4b03c72a07",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1782,6 +2011,10 @@
             "e4e89d13-8dd7-f09d-378f-c038d64ac4a0",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "7860027b-58fe-ac47-ed5b-6e7c31446d46": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Dandelion/SC_Dandelion.scene.nasset/Dandelion 5.mesh.nasset/Thumbnails/Dandelion 5.mesh.nasset.tex.nasset"
     },
     "7879efbf-a90d-6112-07c1-7a74605208c4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1799,6 +2032,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Thin Straight 4.mesh.nasset/Fort Wall Thin Straight 4.mesh.nasset",
+        "thumbnail": "1fb8edfa-8db8-3d0e-add7-c956c5de7b74",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1814,6 +2048,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Pachira_Aquatica/SC_Pachira.scene.nasset/Pachira 3.mesh.nasset/Pachira 3.mesh.nasset",
+        "thumbnail": "c15cfabf-6984-bcee-df38-af5d32ac2a3a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1829,6 +2064,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Nettle/SC_Nettle.scene.nasset/Nettle 6.mesh.nasset/Nettle 6.mesh.nasset",
+        "thumbnail": "a28a9631-6179-e3c7-04ed-e991488ff77b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1838,10 +2074,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7afde4a5-2c30-5e46-03c5-1bd07c564aa5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Anthurium/Material Instances/Thumbnails/Anthurium.mtli.nasset.tex.nasset"
+    },
     "7b73d0ea-1d6c-eec3-1ee5-0d4d277ff01b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Rock_Moss_1/SC_Rock_Moss_1.scene.nasset/Rock Moss 1.mesh.nasset/Rock Moss 1.mesh.nasset",
+        "thumbnail": "4ac69947-2834-d153-bc2b-52f74cdf2a13",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1851,10 +2092,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7b8bff30-e607-f74c-5bb8-8ed8a9e01f0e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Rock_Moss_2/Material Instances/Thumbnails/Rock Moss 2.mtli.nasset.tex.nasset"
+    },
     "7babc1b4-b391-3c9f-e740-4447f695a398": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Celandine/SC_Celandine.scene.nasset/Celandine 3.mesh.nasset/Celandine 3.mesh.nasset",
+        "thumbnail": "87aaf9fe-851a-7708-d237-b7516b21a909",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1864,10 +2110,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7bc43123-d75e-f0e4-efab-fa65594c36d3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Nettle/SC_Nettle.scene.nasset/Nettle 3.mesh.nasset/Thumbnails/Nettle 3.mesh.nasset.tex.nasset"
+    },
     "7c1a183e-137b-c6e0-a15b-6900c99e345b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Cylinder.mesh.nasset/Cylinder.mesh.nasset",
+        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Fir Sapling 1.mesh.nasset/Fir Sapling 1.mesh.nasset",
+        "thumbnail": "aebef20d-e8ef-4b24-d007-355fa4c79309",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1883,6 +2134,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Nettle/SC_Nettle.scene.nasset/Nettle 4.mesh.nasset/Nettle 4.mesh.nasset",
+        "thumbnail": "b65aa8ba-0371-560b-a0b1-e88982ef66ec",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1904,6 +2156,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7d5f84b6-2277-ce29-b4f9-688b2f9e718b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Clover/SC_Clover.scene.nasset/Clover 2.mesh.nasset/Thumbnails/Clover 2.mesh.nasset.tex.nasset"
+    },
+    "7d6e842c-1f1a-bed0-4734-6bea4db3725a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Clover/SC_Clover.scene.nasset/Clover 4.mesh.nasset/Thumbnails/Clover 4.mesh.nasset.tex.nasset"
+    },
     "7f2344f6-c57f-27c6-42f4-8c4c56f655ed": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Pachira_Aquatica/textures/T_Pachira_Leaves_R.tex.nasset"
@@ -1923,7 +2183,8 @@
     "805240bd-39da-dcad-8ecd-082522c9ca18": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/Fire_Pit/SM_Fire_Pit.scene.nasset/SM_Fire_Pit.scene.nasset",
+        "path": "Assets/Source/Fire_Pit/Fire Pit.scene.nasset/Fire Pit.scene.nasset",
+        "thumbnail": "6bbfe664-5de0-1a61-c8dc-97f79ead6896",
         "dependencies": [
             "26fef04b-19a8-0788-55b7-24f76c40edc1",
             "0efa737d-54fa-3fd9-95f9-ffab329d438d",
@@ -1932,7 +2193,8 @@
     },
     "810707bc-0a34-7073-0774-bba846ad83aa": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Source/Shrub_Sorrel/Material Instances/Clover.mtli.nasset",
+        "path": "Assets/Source/Clover/Material Instances/Clover.mtli.nasset",
+        "thumbnail": "6ae1bcba-16ee-e865-a41c-b39f49638d26",
         "dependencies": [
             "7942eb3f-d202-4030-a7be-03f4d886f43d",
             "8570dcf9-041f-ffc9-f550-0c99e85926d7",
@@ -1952,6 +2214,10 @@
             "5bc0cbd2-bcef-b230-0efe-5b6283662da5",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "8114350b-4b78-1111-52c5-3e6847113b9f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Dandelion/Material Instances/Thumbnails/Dandelion.mtli.nasset.tex.nasset"
     },
     "814f17a3-462f-7610-fe46-64d7749d2eda": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1993,9 +2259,13 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Coastal_Rocks/textures/T_Coastal_Rock_D.tex.nasset"
     },
+    "83db6d0e-960d-5c03-843e-7f7dc423bdf9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Clover/SC_Clover.scene.nasset/Clover 5.mesh.nasset/Thumbnails/Clover 5.mesh.nasset.tex.nasset"
+    },
     "8570dcf9-041f-ffc9-f550-0c99e85926d7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Shrub_Sorrel/textures/T_Shrub_D.tex.nasset"
+        "path": "Assets/Source/Clover/textures/T_Shrub_D.tex.nasset"
     },
     "866e3202-4fa1-8fff-33e8-59dab4431e83": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2012,7 +2282,7 @@
     "870826a9-09b5-abaf-01a8-594bac5c7c4f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Plane.019.mesh.nasset/Plane.019 Fort Trim.mesh.nasset",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Gate.mesh.nasset/Fort Gate Fort Trim.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2025,6 +2295,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Dandelion/SC_Dandelion.scene.nasset/Dandelion 1.mesh.nasset/Dandelion 1.mesh.nasset",
+        "thumbnail": "d591de76-ead9-36b2-1beb-3c41c6196053",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2046,6 +2317,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "87aaf9fe-851a-7708-d237-b7516b21a909": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Celandine/SC_Celandine.scene.nasset/Celandine 3.mesh.nasset/Thumbnails/Celandine 3.mesh.nasset.tex.nasset"
+    },
     "88127499-f8c7-d805-4738-716839138be3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Nettle/textures/T_Nettle_R.tex.nasset"
@@ -2066,10 +2341,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8a4f971b-8076-4d63-79bf-1c161bf3a5b2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Rock_Moss_1/SC_Rock_Moss_1.scene.nasset/Rock Moss 6.mesh.nasset/Thumbnails/Rock Moss 6.mesh.nasset.tex.nasset"
+    },
     "8ae6dd54-64ff-c60f-a098-9257254e5b2b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/Shrub_Sorrel/SC_Clover.scene.nasset/Clover 1.mesh.nasset/Clover 1.mesh.nasset",
+        "path": "Assets/Source/Clover/SC_Clover.scene.nasset/Clover 1.mesh.nasset/Clover 1.mesh.nasset",
+        "thumbnail": "10cfd03f-a44e-d154-f9d3-1e208cd94032",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2091,10 +2371,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8ce82da2-02b4-a006-2758-fcd584ae4bc7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Thin Straight 1.mesh.nasset/Thumbnails/Fort Wall Thin Straight 1.mesh.nasset.tex.nasset"
+    },
     "8d85d047-0671-680a-5ebe-f691e3d368bd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Thin Straight 2.mesh.nasset/Fort Wall Thin Straight 2.mesh.nasset",
+        "thumbnail": "350b9e82-be8d-b983-88f8-3e82e210b098",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2110,6 +2395,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Corner 1.mesh.nasset/Fort Wall Corner 1.mesh.nasset",
+        "thumbnail": "1e4e3319-0ac1-ec7c-4d8d-8ffa8d177795",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2125,6 +2411,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Calathea/SC_Calathea.scene.nasset/Calathea 4.mesh.nasset/Calathea 4.mesh.nasset",
+        "thumbnail": "a12cdc2a-4929-6e6d-b7cf-d191f8942cd1",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2154,6 +2441,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Anthurium/SC_Anthurium.scene.nasset/Anthurium 5.mesh.nasset/Anthurium 5.mesh.nasset",
+        "thumbnail": "43042b5b-f660-c8fe-0d68-8b4fa59ae485",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2175,10 +2463,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "90f1821c-4f2a-ce98-876f-f0601840b238": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Calathea/SC_Calathea.scene.nasset/Calathea 1.mesh.nasset/Thumbnails/Calathea 1.mesh.nasset.tex.nasset"
+    },
+    "912e58dc-6e3f-a6d4-a5ca-178e71fa6400": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Weed_Plant_02/Material Instances/Thumbnails/Weed.mtli.nasset.tex.nasset"
+    },
     "9166c8c6-1f4f-4ac7-7b7a-3f394488b489": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Tower Round.mesh.nasset/Tower Round.mesh.nasset",
+        "thumbnail": "ecfd47c3-ed1b-11ef-843e-735e89e3dae4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2189,6 +2486,10 @@
             "e1c78467-4247-9c7d-7886-1550fe133666",
             "0d5b30a2-d343-47a6-83dd-84598d981c83"
         ]
+    },
+    "919f2751-6836-982f-117e-65c69ac72ce3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Celandine/SC_Celandine.scene.nasset/Celandine 1.mesh.nasset/Thumbnails/Celandine 1.mesh.nasset.tex.nasset"
     },
     "91bfa889-4c1a-cb88-d0a2-91371dd5e894": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2209,7 +2510,7 @@
     "9237ac47-5986-ab7a-9bab-5584aa1e24b0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/Shrub_Sorrel/SC_Clover.scene.nasset/SC_Clover.scene.nasset",
+        "path": "Assets/Source/Clover/SC_Clover.scene.nasset/SC_Clover.scene.nasset",
         "dependencies": [
             "8ae6dd54-64ff-c60f-a098-9257254e5b2b",
             "61082c55-f789-0a80-6549-6d0896aaa9f7",
@@ -2225,6 +2526,10 @@
     "93867330-d26c-b7c7-2fb1-fa2afb963400": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Dead_Tree_Trunk/textures/T_Dead_Trunk_R.tex.nasset"
+    },
+    "95203e20-e61e-1391-860f-4ee5d1117c76": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Anthurium/SC_Anthurium.scene.nasset/Anthurium 6.mesh.nasset/Thumbnails/Anthurium 6.mesh.nasset.tex.nasset"
     },
     "9582f67c-6256-6139-9806-31bcb1a1e346": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2250,9 +2555,25 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "97984029-f4fa-c6d9-a41e-d2d075bf3e48": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fern/SC_Fern.scene.nasset/Fern 2.mesh.nasset/Thumbnails/Fern 2.mesh.nasset.tex.nasset"
+    },
+    "982f75e7-e405-6c16-54a8-6dc0ac17e2e0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Celandine/SC_Celandine.scene.nasset/Celandine 4.mesh.nasset/Thumbnails/Celandine 4.mesh.nasset.tex.nasset"
+    },
     "985e028a-c696-5cae-8993-b3a188de0c92": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Coastal_Rocks/textures/T_Coastal_Rock_R.tex.nasset"
+    },
+    "98878676-174e-01ff-9b8e-6bf90eb12d27": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Dandelion/SC_Dandelion.scene.nasset/Dandelion 3.mesh.nasset/Thumbnails/Dandelion 3.mesh.nasset.tex.nasset"
+    },
+    "99acfd37-e43b-d74f-3064-16cc61625fc6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Coastal_Rocks/Material Instances/Thumbnails/Coastal Rocks.mtli.nasset.tex.nasset"
     },
     "99f641f0-ec37-b16d-5e1b-d016e2be6146": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2265,6 +2586,18 @@
             "d357b863-01eb-e29a-f408-4f093bce1262",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "9bdd9dc8-a3d3-c81c-ae05-110565c3e316": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fern/SC_Fern.scene.nasset/Fern 3.mesh.nasset/Thumbnails/Fern 3.mesh.nasset.tex.nasset"
+    },
+    "9beead6c-f450-6af9-8b09-f6223d75ecdd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Anthurium/SC_Anthurium.scene.nasset/Anthurium 2.mesh.nasset/Thumbnails/Anthurium 2.mesh.nasset.tex.nasset"
+    },
+    "9c342178-e1d0-634e-1161-2b61b4c6667d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Rock_Moss_2/SC_Rock_Moss_2.scene.nasset/Rock Moss 13.mesh.nasset/Thumbnails/Rock Moss 13.mesh.nasset.tex.nasset"
     },
     "9c3cb89e-a65f-97de-9c69-eb55209b5a1f": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2287,10 +2620,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Rock_Moss_1/textures/T_Rock_Moss_1_D.tex.nasset"
     },
+    "9dd21ede-10b9-dddf-e0be-315e9b719503": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall End 2.mesh.nasset/Thumbnails/Fort Wall End 2.mesh.nasset.tex.nasset"
+    },
     "9e1d0340-a1a9-59e4-4855-107defeb7e78": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Cylinder.069.mesh.nasset/Cylinder.069 Fir Sapling Twigs.mesh.nasset",
+        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Fir Sapling 2.mesh.nasset/Fir Sapling 2 Fir Sapling Twigs.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2315,6 +2652,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Rock_Moss_1/SC_Rock_Moss_1.scene.nasset/Rock Moss 7.mesh.nasset/Rock Moss 7.mesh.nasset",
+        "thumbnail": "5443e9c3-9613-db4f-2b30-53d8c18ac73b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2323,6 +2661,10 @@
             "76d1548e-7b9e-20ff-72af-62d99220eeeb",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "a05caebb-aebd-8b04-eee3-61a7b751c2c4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Dandelion/SC_Dandelion.scene.nasset/Dandelion 2.mesh.nasset/Thumbnails/Dandelion 2.mesh.nasset.tex.nasset"
     },
     "a11e4153-08cd-6d11-1c37-11a88a718a10": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2336,6 +2678,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a12cdc2a-4929-6e6d-b7cf-d191f8942cd1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Calathea/SC_Calathea.scene.nasset/Calathea 4.mesh.nasset/Thumbnails/Calathea 4.mesh.nasset.tex.nasset"
+    },
     "a225a346-fe48-d806-ebcf-f86d86611586": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2348,10 +2694,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a28a9631-6179-e3c7-04ed-e991488ff77b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Nettle/SC_Nettle.scene.nasset/Nettle 6.mesh.nasset/Thumbnails/Nettle 6.mesh.nasset.tex.nasset"
+    },
+    "a2b9658f-2ff1-bbe6-98cd-2c9d71801f46": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Rock_Moss_1/SC_Rock_Moss_1.scene.nasset/Rock Moss 4.mesh.nasset/Thumbnails/Rock Moss 4.mesh.nasset.tex.nasset"
+    },
     "a2e2e5e5-1a49-22c7-7ce9-68884767e7ab": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Rock_Moss_2/SC_Rock_Moss_2.scene.nasset/Rock Moss 13.mesh.nasset/Rock Moss 13.mesh.nasset",
+        "thumbnail": "9c342178-e1d0-634e-1161-2b61b4c6667d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2360,6 +2715,10 @@
             "0e6ef24a-a96c-44b4-355e-282e94703e3f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "a2e4d330-2c9b-635f-aa0b-1826da50efbe": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Thin Corner 3.mesh.nasset/Thumbnails/Fort Wall Thin Corner 3.mesh.nasset.tex.nasset"
     },
     "a2f21d7e-cb3b-46ee-c27f-b70b6b8f45c4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2376,7 +2735,7 @@
     "a3310d1b-56b6-7bae-5d18-6b3bf6cc980b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Shrub_Sorrel/SC_Clover.scene.nasset/Clover 3.mesh.nasset/Clover 3 Clover.mesh.nasset",
+        "path": "Assets/Source/Clover/SC_Clover.scene.nasset/Clover 3.mesh.nasset/Clover 3 Clover.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2385,10 +2744,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a420e554-e028-3335-5a59-a265cad05fc6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall End 1.mesh.nasset/Thumbnails/Fort Wall End 1.mesh.nasset.tex.nasset"
+    },
     "a4dc6ed1-2e2b-247a-948f-f1badcfab096": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Dandelion/SC_Dandelion.scene.nasset/Dandelion 2.mesh.nasset/Dandelion 2.mesh.nasset",
+        "thumbnail": "a05caebb-aebd-8b04-eee3-61a7b751c2c4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2402,6 +2766,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Anthurium/SC_Anthurium.scene.nasset/Anthurium 3.mesh.nasset/Anthurium 3.mesh.nasset",
+        "thumbnail": "c545fb4c-3ef7-11cf-7810-60e858dd2068",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2427,6 +2792,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Dandelion/SC_Dandelion.scene.nasset/Dandelion 4.mesh.nasset/Dandelion 4.mesh.nasset",
+        "thumbnail": "05f935b0-a619-b50f-0e42-a9d5493fa9dd",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2443,7 +2809,7 @@
     "aaef492b-91a8-ad86-2340-83a1850943a1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/Dead_Tree_Trunk/SM_Dead_Trunk.scene.nasset/SM_Dead_Trunk.scene.nasset",
+        "path": "Assets/Source/Dead_Tree_Trunk/Dead Trunk.scene.nasset/Dead Trunk.scene.nasset",
         "dependencies": [
             "b10e88e2-6174-8b8e-4b9f-df44e2feca5b",
             "62ac63dd-50f2-2fe6-6fe9-4685bb3ca81e",
@@ -2469,16 +2835,26 @@
     "ab661e00-900e-3558-b147-223bb44d8401": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Stump/SM_Stump.scene.nasset/SM_Stump.mesh.nasset",
+        "path": "Assets/Source/Stump/Stump.scene.nasset/Stump.mesh.nasset",
+        "thumbnail": "112b0eed-1989-7846-daff-b7e274746293",
         "dependencies": [
             "e9bfe46c-44e3-2587-ecbb-b71980d85bc6",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ab8d197f-1234-f2a1-b66b-316fef3ea126": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Calathea/Material Instances/Thumbnails/Calathea.mtli.nasset.tex.nasset"
+    },
+    "ab92d9c0-0fe7-3b4a-8e4c-e1034a65ba0a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/Material Instances/Thumbnails/Fort Wall.mtli.nasset.tex.nasset"
+    },
     "abc23427-e92c-872f-8032-9207179cf2f7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Weed_Plant_02/SC_Weed.scene.nasset/Weed 2.mesh.nasset/Weed 2.mesh.nasset",
+        "thumbnail": "066f5925-06bd-3f0f-7c63-f9e47c8d42eb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2492,6 +2868,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Pachira_Aquatica/SC_Pachira.scene.nasset/Pachira 4.mesh.nasset/Pachira 4.mesh.nasset",
+        "thumbnail": "39383fb2-a814-3a3d-5df0-fa9aeda0d8b6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2507,6 +2884,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Pine_Roots/SC_Pine_Roots.scene.nasset/Roots 1.mesh.nasset/Roots 1.mesh.nasset",
+        "thumbnail": "bfdfc1f3-c5a7-3d69-b43a-2d4105f15401",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2516,6 +2894,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ac02ffea-8034-714e-23ac-ab5ef2fb9ebb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fern/SC_Fern.scene.nasset/Fern 4.mesh.nasset/Thumbnails/Fern 4.mesh.nasset.tex.nasset"
+    },
     "ac42440c-9f9b-276e-e4e8-916931ae9f64": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Pachira_Aquatica/textures/T_Pachira_Bark_R.tex.nasset"
@@ -2524,6 +2906,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall End 1.mesh.nasset/Fort Wall End 1.mesh.nasset",
+        "thumbnail": "a420e554-e028-3335-5a59-a265cad05fc6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2534,6 +2917,14 @@
             "e1c78467-4247-9c7d-7886-1550fe133666",
             "877b3d98-5960-f2c6-acc7-8396bec3540f"
         ]
+    },
+    "ae59fdf0-1536-021a-fa92-a72dd9ec84ad": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Thin Corner 2.mesh.nasset/Thumbnails/Fort Wall Thin Corner 2.mesh.nasset.tex.nasset"
+    },
+    "aebef20d-e8ef-4b24-d007-355fa4c79309": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Fir Sapling 1.mesh.nasset/Thumbnails/Fir Sapling 1.mesh.nasset.tex.nasset"
     },
     "afaf22bf-70a7-5b8b-a637-fa82b026ef23": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2554,6 +2945,7 @@
     "b10e88e2-6174-8b8e-4b9f-df44e2feca5b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Dead_Tree_Trunk/Material Instances/Dead Trunk.mtli.nasset",
+        "thumbnail": "412cc2ec-65ec-7b0c-41c8-c8356b0b53df",
         "dependencies": [
             "ade8b81e-1edf-443a-8af7-37473edf1390",
             "6e37210c-9be8-bc93-3886-9ce5f78ea706",
@@ -2566,6 +2958,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Thin Corner 3.mesh.nasset/Fort Wall Thin Corner 3.mesh.nasset",
+        "thumbnail": "a2e4d330-2c9b-635f-aa0b-1826da50efbe",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2593,6 +2986,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Dry_Branches/SC_Dry_Branches.scene.nasset/Dry Branch 3.mesh.nasset/Dry Branch 3.mesh.nasset",
+        "thumbnail": "1db2939d-efde-a585-33c4-a456d57ff0bf",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2606,6 +3000,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fern/SC_Fern.scene.nasset/Fern 2.mesh.nasset/Fern 2.mesh.nasset",
+        "thumbnail": "97984029-f4fa-c6d9-a41e-d2d075bf3e48",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2618,6 +3013,7 @@
     "b5a437da-3733-d807-c5c2-39082ad65d61": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Fir_Sapling/Material Instances/Fir Sapling Branches.mtli.nasset",
+        "thumbnail": "b848700f-9639-6818-62ed-9ab0aabd693a",
         "dependencies": [
             "ade8b81e-1edf-443a-8af7-37473edf1390",
             "11686566-d5aa-9902-2855-e5973d318746",
@@ -2637,6 +3033,14 @@
             "5bc0cbd2-bcef-b230-0efe-5b6283662da5",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "b65aa8ba-0371-560b-a0b1-e88982ef66ec": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Nettle/SC_Nettle.scene.nasset/Nettle 4.mesh.nasset/Thumbnails/Nettle 4.mesh.nasset.tex.nasset"
+    },
+    "b848700f-9639-6818-62ed-9ab0aabd693a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fir_Sapling/Material Instances/Thumbnails/Fir Sapling Branches.mtli.nasset.tex.nasset"
     },
     "b9bdf3ac-01ab-a20b-a484-494ac7345118": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2664,11 +3068,12 @@
     },
     "bbe164f4-6aca-73dc-a57c-e4bd3c9bb53f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Shrub_Sorrel/textures/T_Shrub_N.tex.nasset"
+        "path": "Assets/Source/Clover/textures/T_Shrub_N.tex.nasset"
     },
     "bc2c8662-9233-2809-c4cc-549ed4405bd7": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Fort/Material Instances/Fort Plaster.mtli.nasset",
+        "thumbnail": "4eda09ba-9f9a-66f8-c634-d2e91451ee22",
         "dependencies": [
             "ade8b81e-1edf-443a-8af7-37473edf1390",
             "2f7da10e-b97b-ff05-cff2-63d91af9f9f0",
@@ -2676,6 +3081,22 @@
             "c5c4af2c-98ea-c390-53b2-1df40d7364e9",
             "58b37229-86b0-b739-1f63-23cad90270b6"
         ]
+    },
+    "bc3df15c-62fe-0e02-a6b7-a04356377a0a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Rock_Moss_2/SC_Rock_Moss_2.scene.nasset/Rock Moss 8.mesh.nasset/Thumbnails/Rock Moss 8.mesh.nasset.tex.nasset"
+    },
+    "bc6cb42c-218a-6604-f692-ddc7fa5e06c3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Transition.mesh.nasset/Thumbnails/Fort Wall Transition.mesh.nasset.tex.nasset"
+    },
+    "bd1a3b70-a5ce-221f-ffd6-92708c263e8b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Clover/SC_Clover.scene.nasset/Clover 3.mesh.nasset/Thumbnails/Clover 3.mesh.nasset.tex.nasset"
+    },
+    "bd1e120d-5ffe-dc09-2abe-e54cc3bec016": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Straight 2.mesh.nasset/Thumbnails/Fort Wall Straight 2.mesh.nasset.tex.nasset"
     },
     "be5fa74d-b20c-aefe-56f8-4b131508716e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2693,6 +3114,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Celandine/SC_Celandine.scene.nasset/Celandine 4.mesh.nasset/Celandine 4.mesh.nasset",
+        "thumbnail": "982f75e7-e405-6c16-54a8-6dc0ac17e2e0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2702,9 +3124,17 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "bf9912a1-ae32-93dc-4293-bb1a2ed691d0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Straight 1.mesh.nasset/Thumbnails/Fort Wall Straight 1.mesh.nasset.tex.nasset"
+    },
     "bfa71591-94cb-15eb-eb52-699b5400248b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Rock_Moss_2/textures/T_Rock_Moss_2_R.tex.nasset"
+    },
+    "bfdfc1f3-c5a7-3d69-b43a-2d4105f15401": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Pine_Roots/SC_Pine_Roots.scene.nasset/Roots 1.mesh.nasset/Thumbnails/Roots 1.mesh.nasset.tex.nasset"
     },
     "c0519727-b83b-979a-ced3-1de0c1cac83d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2726,9 +3156,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c15cfabf-6984-bcee-df38-af5d32ac2a3a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Pachira_Aquatica/SC_Pachira.scene.nasset/Pachira 3.mesh.nasset/Thumbnails/Pachira 3.mesh.nasset.tex.nasset"
+    },
+    "c1930f39-b710-cbb0-d74b-8eabeab246d3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Nettle/Material Instances/Thumbnails/Nettle.mtli.nasset.tex.nasset"
+    },
     "c1aa19a2-5239-74c1-8801-0e7760805189": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Pine_Roots/Material Instances/Roots 2.mtli.nasset",
+        "thumbnail": "2ec78944-703b-4117-2a3e-08e8d8e8ce60",
         "dependencies": [
             "ade8b81e-1edf-443a-8af7-37473edf1390",
             "604c4827-d872-0fd2-07db-9ffadfaf5761",
@@ -2740,7 +3179,7 @@
     "c27128c6-51f2-d9fb-5f5c-f43e5c9cd057": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Shrub_Sorrel/SC_Clover.scene.nasset/Clover 5.mesh.nasset/Clover 5 Clover.mesh.nasset",
+        "path": "Assets/Source/Clover/SC_Clover.scene.nasset/Clover 5.mesh.nasset/Clover 5 Clover.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2753,9 +3192,21 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Weed_Plant_02/textures/T_Weed_Plant_R.tex.nasset"
     },
+    "c545fb4c-3ef7-11cf-7810-60e858dd2068": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Anthurium/SC_Anthurium.scene.nasset/Anthurium 3.mesh.nasset/Thumbnails/Anthurium 3.mesh.nasset.tex.nasset"
+    },
     "c5b8cb08-f180-1e36-bb0a-156cf2f306b5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Dandelion/textures/T_Dandelion_R.tex.nasset"
+    },
+    "c67f0003-ff96-3bfb-ad8a-1a57568c45b7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fern/SC_Fern.scene.nasset/Fern 1.mesh.nasset/Thumbnails/Fern 1.mesh.nasset.tex.nasset"
+    },
+    "c7c420ce-9944-1a6e-ec5e-edbcca76b3a9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Pachira_Aquatica/SC_Pachira.scene.nasset/Pachira 2.mesh.nasset/Thumbnails/Pachira 2.mesh.nasset.tex.nasset"
     },
     "c7de533a-cac8-f9eb-86dd-8154460b3372": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2765,6 +3216,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Calathea/SC_Calathea.scene.nasset/Calathea 1.mesh.nasset/Calathea 1.mesh.nasset",
+        "thumbnail": "90f1821c-4f2a-ce98-876f-f0601840b238",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2800,7 +3252,7 @@
     "cb22df79-925b-0c3a-313b-866c3683e5cd": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Cylinder.mesh.nasset/Cylinder Fir Sapling Branches.mesh.nasset",
+        "path": "Assets/Source/Fir_Sapling/SC_Fir_Sapling.scene.nasset/Fir Sapling 1.mesh.nasset/Fir Sapling 1 Fir Sapling Branches.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2837,6 +3289,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Dandelion/SC_Dandelion.scene.nasset/Dandelion 5.mesh.nasset/Dandelion 5.mesh.nasset",
+        "thumbnail": "7860027b-58fe-ac47-ed5b-6e7c31446d46",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2846,10 +3299,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "cc1bba05-b144-acd1-8c63-b2e2047e7dfb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Pachira_Aquatica/SC_Pachira.scene.nasset/Pachira 1.mesh.nasset/Thumbnails/Pachira 1.mesh.nasset.tex.nasset"
+    },
     "ce2873a2-e5d2-3c87-cd41-a889d169d1a0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Weed_Plant_02/SC_Weed.scene.nasset/Weed 1.mesh.nasset/Weed 1.mesh.nasset",
+        "thumbnail": "dafda7c2-f319-4f52-0ea0-8e9ba1f8d6af",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2862,6 +3320,7 @@
     "ceb157cc-090e-e0a2-e393-0bd4639bb1d8": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Anthurium/Material Instances/Anthurium.mtli.nasset",
+        "thumbnail": "7afde4a5-2c30-5e46-03c5-1bd07c564aa5",
         "dependencies": [
             "7942eb3f-d202-4030-a7be-03f4d886f43d",
             "1f91dd66-6b10-8c19-af94-212ac135709b",
@@ -2873,6 +3332,7 @@
     "d03d9144-74a4-ebf8-7bf0-81079d10341d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Rock_Moss_2/Material Instances/Rock Moss 2.mtli.nasset",
+        "thumbnail": "7b8bff30-e607-f74c-5bb8-8ed8a9e01f0e",
         "dependencies": [
             "ade8b81e-1edf-443a-8af7-37473edf1390",
             "9307df63-c9eb-f35a-c0b2-381aac78ebdf",
@@ -2884,7 +3344,7 @@
     "d0babfab-7ece-063f-c5bf-80e33423db8f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Coastal_Rocks/SM_Coastal_Rocks.scene.nasset/SM_Coastal_Rocks.mesh.nasset",
+        "path": "Assets/Source/Coastal_Rocks/Coastal Rocks.scene.nasset/Coastal Rocks.mesh.nasset",
         "dependencies": [
             "ea194533-dc51-78df-3531-4967aa955c55",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -2894,10 +3354,15 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Anthurium/textures/T_Anthurium_R.tex.nasset"
     },
+    "d11c7aaa-034e-f797-9fcb-abcc6fd64224": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fir_Sapling/Material Instances/Thumbnails/Fir Sapling Twigs.mtli.nasset.tex.nasset"
+    },
     "d1727470-78fa-2516-499d-e657ebe3d611": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Corner 2.mesh.nasset/Fort Wall Corner 2.mesh.nasset",
+        "thumbnail": "421b05a4-297f-1753-90fd-20decaa46ac7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2916,6 +3381,7 @@
     "d357b863-01eb-e29a-f408-4f093bce1262": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Dandelion/Material Instances/Dandelion.mtli.nasset",
+        "thumbnail": "8114350b-4b78-1111-52c5-3e6847113b9f",
         "dependencies": [
             "7942eb3f-d202-4030-a7be-03f4d886f43d",
             "96c7a3d1-15da-f610-7e6b-aa89afef93b8",
@@ -2924,10 +3390,15 @@
             "c5b8cb08-f180-1e36-bb0a-156cf2f306b5"
         ]
     },
+    "d43f4c2e-95c3-eb3f-ac9c-9b06e88106e6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Dead_Tree_Trunk/Dead Trunk.scene.nasset/Thumbnails/Dead Trunk.mesh.nasset.tex.nasset"
+    },
     "d48a04e1-a662-e049-e100-1ce11ce23cfb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Nettle/SC_Nettle.scene.nasset/Nettle 2.mesh.nasset/Nettle 2.mesh.nasset",
+        "thumbnail": "46bc6175-b1f8-0e58-d2fa-dc92884ee9bf",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2950,10 +3421,15 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Fort/textures/T_Brick_Trim_D.tex.nasset"
     },
+    "d591de76-ead9-36b2-1beb-3c41c6196053": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Dandelion/SC_Dandelion.scene.nasset/Dandelion 1.mesh.nasset/Thumbnails/Dandelion 1.mesh.nasset.tex.nasset"
+    },
     "d61cd3a0-a9d7-cc51-1973-aae9f33f06f7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Rock_Moss_2/SC_Rock_Moss_2.scene.nasset/Rock Moss 10.mesh.nasset/Rock Moss 10.mesh.nasset",
+        "thumbnail": "61e4bb45-1fb1-ccf9-bfe7-a02ea44a7b62",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2975,10 +3451,23 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d9d6bb39-2cbb-c09d-d500-c83232ae1b35": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Rock_Moss_1/Material Instances/Thumbnails/Rock Moss 1.mtli.nasset.tex.nasset"
+    },
+    "da08ac21-0aae-ad81-1a85-beb0f5064ddb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Dry_Branches/SC_Dry_Branches.scene.nasset/Dry Branch 1.mesh.nasset/Thumbnails/Dry Branch 1.mesh.nasset.tex.nasset"
+    },
+    "dafda7c2-f319-4f52-0ea0-8e9ba1f8d6af": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Weed_Plant_02/SC_Weed.scene.nasset/Weed 1.mesh.nasset/Thumbnails/Weed 1.mesh.nasset.tex.nasset"
+    },
     "db032606-51c9-8254-4508-f6d06103785a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Nettle/SC_Nettle.scene.nasset/Nettle 3.mesh.nasset/Nettle 3.mesh.nasset",
+        "thumbnail": "7bc43123-d75e-f0e4-efab-fa65594c36d3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2988,6 +3477,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "db617bd7-7e5a-0265-99b4-eb83f73be6a9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Calathea/SC_Calathea.scene.nasset/Calathea 3.mesh.nasset/Thumbnails/Calathea 3.mesh.nasset.tex.nasset"
+    },
+    "dbd33d9e-6581-fc84-8a78-6094856576d2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Walkway Straight 1.mesh.nasset/Thumbnails/Fort Wall Walkway Straight 1.mesh.nasset.tex.nasset"
+    },
+    "dee0d4a8-6014-83d3-b03b-e6f7670a8223": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/Material Instances/Thumbnails/Fort Trim.mtli.nasset.tex.nasset"
+    },
     "df88c890-c57f-d846-977f-7a6ff3c23b32": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Celandine/textures/T_Celandine_R.tex.nasset"
@@ -2996,6 +3497,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Rock_Moss_1/SC_Rock_Moss_1.scene.nasset/Rock Moss 4.mesh.nasset/Rock Moss 4.mesh.nasset",
+        "thumbnail": "a2b9658f-2ff1-bbe6-98cd-2c9d71801f46",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3009,6 +3511,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall End 2.mesh.nasset/Fort Wall End 2.mesh.nasset",
+        "thumbnail": "9dd21ede-10b9-dddf-e0be-315e9b719503",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3023,6 +3526,7 @@
     "e1c78467-4247-9c7d-7886-1550fe133666": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Fort/Material Instances/Fort Wall.mtli.nasset",
+        "thumbnail": "ab92d9c0-0fe7-3b4a-8e4c-e1034a65ba0a",
         "dependencies": [
             "ade8b81e-1edf-443a-8af7-37473edf1390",
             "27420bc9-5f04-c9b6-b4ab-d6988caacf69",
@@ -3030,6 +3534,14 @@
             "c5c4af2c-98ea-c390-53b2-1df40d7364e9",
             "1a66d0da-dd22-6a05-c491-ad52cd002e06"
         ]
+    },
+    "e2b9abc3-9d4d-1f58-ecc0-2ef02aab8dac": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Pine_Roots/SC_Pine_Roots.scene.nasset/Roots 2.mesh.nasset/Thumbnails/Roots 2.mesh.nasset.tex.nasset"
+    },
+    "e2df7e79-c1f0-41dd-058c-1afea4ed870f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Walkway Corner 2.mesh.nasset/Thumbnails/Fort Wall Walkway Corner 2.mesh.nasset.tex.nasset"
     },
     "e325e460-0602-3a55-6473-f90d8fdf182d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3061,10 +3573,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e51fdfe9-bb87-08c9-8f0d-c1bdf8a75ec9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Nettle/SC_Nettle.scene.nasset/Nettle 1.mesh.nasset/Thumbnails/Nettle 1.mesh.nasset.tex.nasset"
+    },
     "e61f9a55-388d-7ddd-22e5-f97d37843906": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Dry_Branches/SC_Dry_Branches.scene.nasset/Dry Branch 1.mesh.nasset/Dry Branch 1.mesh.nasset",
+        "thumbnail": "da08ac21-0aae-ad81-1a85-beb0f5064ddb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3074,6 +3591,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e7737665-6516-204d-75fe-57ffb32d0afc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Celandine/Material Instances/Thumbnails/Celandine.mtli.nasset.tex.nasset"
+    },
     "e83f6a53-b810-d6ab-0af8-dd049f3a8456": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Pachira_Aquatica/textures/T_Pachira_Bark_D.tex.nasset"
@@ -3081,6 +3602,7 @@
     "e9bfe46c-44e3-2587-ecbb-b71980d85bc6": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Stump/Material Instances/Stump.mtli.nasset",
+        "thumbnail": "233d8209-594b-445e-4b88-f0fed5d21f32",
         "dependencies": [
             "ade8b81e-1edf-443a-8af7-37473edf1390",
             "fae827f9-a767-e47c-19f0-330c1245e8bc",
@@ -3092,6 +3614,7 @@
     "ea194533-dc51-78df-3531-4967aa955c55": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Coastal_Rocks/Material Instances/Coastal Rocks.mtli.nasset",
+        "thumbnail": "99acfd37-e43b-d74f-3064-16cc61625fc6",
         "dependencies": [
             "ade8b81e-1edf-443a-8af7-37473edf1390",
             "82153294-45db-9947-38c6-87e2b469f76d",
@@ -3103,6 +3626,7 @@
     "eadc0d80-fc67-e5ab-644c-ee42edaba6d2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Dry_Branches/Material Instances/Dry Branches.mtli.nasset",
+        "thumbnail": "4598683f-0e65-deee-b5e8-c3b74e772a74",
         "dependencies": [
             "ade8b81e-1edf-443a-8af7-37473edf1390",
             "09892aeb-9532-66f5-9b39-520dfbe8adb7",
@@ -3160,6 +3684,10 @@
             "9166c8c6-1f4f-4ac7-7b7a-3f394488b489"
         ]
     },
+    "ecfd47c3-ed1b-11ef-843e-735e89e3dae4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Tower Round.mesh.nasset/Thumbnails/Tower Round.mesh.nasset.tex.nasset"
+    },
     "edb3d14c-cd11-f402-d40e-d63a9ba7cb71": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Fir_Sapling/textures/T_Fir_Sapling_Bark_N.tex.nasset"
@@ -3168,6 +3696,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Straight 1.mesh.nasset/Fort Wall Straight 1.mesh.nasset",
+        "thumbnail": "bf9912a1-ae32-93dc-4293-bb1a2ed691d0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3178,6 +3707,10 @@
             "e1c78467-4247-9c7d-7886-1550fe133666",
             "fab03c4d-fac6-a894-92c5-ff97b99a636b"
         ]
+    },
+    "ee0c75c1-37d2-7e29-f915-3ac44899bc8b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Weed_Plant_02/SC_Weed.scene.nasset/Weed 3.mesh.nasset/Thumbnails/Weed 3.mesh.nasset.tex.nasset"
     },
     "ee39328f-e34c-accd-9eb8-d6fd1a6a482c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -3195,6 +3728,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Weed_Plant_02/SC_Weed.scene.nasset/Weed 5.mesh.nasset/Weed 5.mesh.nasset",
+        "thumbnail": "5dd6ad89-d630-1608-10ca-1434eb1707ab",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3204,14 +3738,23 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ef8f9ba8-cb6e-8a64-bf8e-27a6ad31279c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Walkway End.mesh.nasset/Thumbnails/Fort Wall Walkway End.mesh.nasset.tex.nasset"
+    },
     "f0eee9f3-e5f4-65c0-ee33-339fbb498ce5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Coastal_Rocks/textures/T_Coastal_Rock_N.tex.nasset"
+    },
+    "f13218a4-b15d-3f05-e1c1-0e2b82e94a6b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Calathea/SC_Calathea.scene.nasset/Calathea 2.mesh.nasset/Thumbnails/Calathea 2.mesh.nasset.tex.nasset"
     },
     "f19501d9-7b8a-c2e0-13ad-fb10087091dc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Celandine/SC_Celandine.scene.nasset/Celandine 1.mesh.nasset/Celandine 1.mesh.nasset",
+        "thumbnail": "919f2751-6836-982f-117e-65c69ac72ce3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3229,6 +3772,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Dandelion/SC_Dandelion.scene.nasset/Dandelion 3.mesh.nasset/Dandelion 3.mesh.nasset",
+        "thumbnail": "98878676-174e-01ff-9b8e-6bf90eb12d27",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3257,7 +3801,8 @@
     "f34e5fca-55bf-1d04-9157-457e8ff8740e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/Shrub_Sorrel/SC_Clover.scene.nasset/Clover 5.mesh.nasset/Clover 5.mesh.nasset",
+        "path": "Assets/Source/Clover/SC_Clover.scene.nasset/Clover 5.mesh.nasset/Clover 5.mesh.nasset",
+        "thumbnail": "83db6d0e-960d-5c03-843e-7f7dc423bdf9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3271,6 +3816,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Rock_Moss_2/SC_Rock_Moss_2.scene.nasset/Rock Moss 8.mesh.nasset/Rock Moss 8.mesh.nasset",
+        "thumbnail": "bc3df15c-62fe-0e02-a6b7-a04356377a0a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3284,6 +3830,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Pine_Roots/SC_Pine_Roots.scene.nasset/Roots 2.mesh.nasset/Roots 2.mesh.nasset",
+        "thumbnail": "e2b9abc3-9d4d-1f58-ecc0-2ef02aab8dac",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3293,10 +3840,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f5212422-a526-5b07-0803-232bae2aaf04": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fire_Pit/Material Instances/Thumbnails/Fire Pit.mtli.nasset.tex.nasset"
+    },
+    "f556a072-db35-2a71-8a0d-ae4836b2d538": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Rock_Moss_2/SC_Rock_Moss_2.scene.nasset/Rock Moss 11.mesh.nasset/Thumbnails/Rock Moss 11.mesh.nasset.tex.nasset"
+    },
     "f6395877-c075-030d-3c33-5e5cb17d114a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Rock_Moss_1/SC_Rock_Moss_1.scene.nasset/Rock Moss 3.mesh.nasset/Rock Moss 3.mesh.nasset",
+        "thumbnail": "4f1c059a-7712-0eb3-3fb6-d579b850b664",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3318,10 +3874,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f6797f9c-496b-f045-1100-fe7ccad6d7ec": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Weed_Plant_02/SC_Weed.scene.nasset/Weed 4.mesh.nasset/Thumbnails/Weed 4.mesh.nasset.tex.nasset"
+    },
     "f7a5b786-8a84-d7ee-07e1-2392c4aeabd0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Calathea/SC_Calathea.scene.nasset/Calathea 2.mesh.nasset/Calathea 2.mesh.nasset",
+        "thumbnail": "f13218a4-b15d-3f05-e1c1-0e2b82e94a6b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3347,6 +3908,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Walkway End.mesh.nasset/Fort Wall Walkway End.mesh.nasset",
+        "thumbnail": "ef8f9ba8-cb6e-8a64-bf8e-27a6ad31279c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3358,10 +3920,15 @@
             "70d07f2a-1f7e-ccc6-f659-027522995eab"
         ]
     },
+    "f88150d9-0a81-6618-1e11-b098cafe0712": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Pachira_Aquatica/Material Instances/Thumbnails/Pachira Bark.mtli.nasset.tex.nasset"
+    },
     "f8ca3f87-7f74-6216-16b0-dc9a7d374fcf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Rock_Moss_1/SC_Rock_Moss_1.scene.nasset/Rock Moss 6.mesh.nasset/Rock Moss 6.mesh.nasset",
+        "thumbnail": "8a4f971b-8076-4d63-79bf-1c161bf3a5b2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3386,7 +3953,7 @@
     "f96d0a3d-0e40-abb7-d59c-adcc0fd1aa4a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/Shrub_Sorrel/SC_Clover.scene.nasset/Clover 2.mesh.nasset/Clover 2 Clover.mesh.nasset",
+        "path": "Assets/Source/Clover/SC_Clover.scene.nasset/Clover 2.mesh.nasset/Clover 2 Clover.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3419,6 +3986,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Dead_Tree_Trunk/textures/T_Dead_Trunk_N.tex.nasset"
     },
+    "fbad8bce-86e0-d279-b1d5-d0159b3569a2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Stairs.mesh.nasset/Thumbnails/Fort Stairs.mesh.nasset.tex.nasset"
+    },
     "fd57fdf9-ccd9-9e73-a24f-24f130ea296a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3435,6 +4006,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Rock_Moss_1/SC_Rock_Moss_1.scene.nasset/Rock Moss 2.mesh.nasset/Rock Moss 2.mesh.nasset",
+        "thumbnail": "316eb729-bd77-4d06-4c9b-8f774ec0f43b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3443,6 +4015,10 @@
             "f6525aa8-9c02-44d6-bcb1-3549e4a502b4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "ff017cf0-3c96-3313-6782-a13ec7c65f8a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Fort/SC_Fort.scene.nasset/Fort Wall Thin Straight 3.mesh.nasset/Thumbnails/Fort Wall Thin Straight 3.mesh.nasset.tex.nasset"
     },
     "guid": "9f6f2f79-7584-9598-e2e4-d1207efbb997"
 }
