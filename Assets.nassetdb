@@ -356,14 +356,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "13e68894-c286-460c-b7aa-0ae1288f77f0": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/XBot/XBot_Jump_Loop.anim.nasset",
-        "dependencies": [
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8"
-        ]
-    },
     "1400b377-da27-8206-eb52-7e5913943889": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -448,10 +440,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Weed_Plant_02/textures/T_Weed_Plant_D.tex.nasset"
     },
-    "19408caa-141a-c6dd-2024-63e08bc5af10": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/XBot/Material Instances/Thumbnails/XBot Joints.mtli.nasset.tex.nasset"
-    },
     "1981ad7b-8f61-a1ab-7fe4-6638c591dac9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -462,29 +450,6 @@
         "dependencies": [
             "11c286a0-b89b-d3b8-39b3-b4f555bd7e1c",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "1a26e71d-6a90-7088-eab7-a4051530f29f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/XBot/SK_XBot.scene.nasset/SK XBot.mesh.nasset/SK XBot.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "51f49d79-e41d-8366-a8cf-b29678312e86",
-            "82f3529f-f8e2-b3c8-363f-b2169a57ea0e",
-            "36683e28-5bff-ae88-e3d8-c35d742634ba",
-            "ee1d0c24-ccce-5ef0-8d69-27d470278fdf",
-            "d6ea4a66-c2ac-3c5f-a94c-d7d9253c8fac",
-            "a724e2d3-d3f5-6c9d-b7af-1281815120e0",
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8",
-            "f2de2883-1a3c-432f-bfe1-21bd048e4a47",
-            "9587ce6c-b613-4c27-8fca-c66f0a3324c9",
-            "f4938e8d-4b1c-4052-a801-5d51cdad96f6",
-            "1d67021c-38b2-4476-948d-c999a5c58f3d",
-            "13e68894-c286-460c-b7aa-0ae1288f77f0",
-            "46fb6551-fd97-4caf-bdb4-581b4a14db65"
         ]
     },
     "1a5272f8-ff9a-f926-783c-7a7505869ff2": {
@@ -503,14 +468,6 @@
             "7c1a183e-137b-c6e0-a15b-6900c99e345b",
             "7635895b-f205-0180-d9f3-e2111d4ebd5b",
             "5372d48c-8149-ebf6-aeca-94b599ad7ec3"
-        ]
-    },
-    "1d67021c-38b2-4476-948d-c999a5c58f3d": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/XBot/XBot_Jump_Start.anim.nasset",
-        "dependencies": [
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8"
         ]
     },
     "1da47a19-e67c-23e7-0ccf-3377f87bbcf3": {
@@ -1094,16 +1051,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "36683e28-5bff-ae88-e3d8-c35d742634ba": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/XBot/SK_XBot.scene.nasset/SK XBot.mesh.nasset/SK XBot Xbot Main.meshskin.nasset",
-        "dependencies": [
-            "82f3529f-f8e2-b3c8-363f-b2169a57ea0e",
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8",
-            "51f49d79-e41d-8366-a8cf-b29678312e86"
-        ]
-    },
     "39383fb2-a814-3a3d-5df0-fa9aeda0d8b6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Pachira_Aquatica/SC_Pachira.scene.nasset/Pachira 4.mesh.nasset/Thumbnails/Pachira 4.mesh.nasset.tex.nasset"
@@ -1300,14 +1247,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Nettle/SC_Nettle.scene.nasset/Nettle 2.mesh.nasset/Thumbnails/Nettle 2.mesh.nasset.tex.nasset"
     },
-    "46fb6551-fd97-4caf-bdb4-581b4a14db65": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/XBot/XBot_Jump_End.anim.nasset",
-        "dependencies": [
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8"
-        ]
-    },
     "474d2bad-fbd6-5d66-4c0e-074ba6c98d5f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1350,18 +1289,6 @@
         "dependencies": [
             "5bc0cbd2-bcef-b230-0efe-5b6283662da5",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "4c3001ee-8a3b-4fc0-bc83-d36b2f58f305": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/XBot/XBot.scene.nasset",
-        "thumbnail": "e36ff39f-85a5-47a4-9ee8-7f441f834030",
-        "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
-        ],
-        "dependencies": [
-            "1a26e71d-6a90-7088-eab7-a4051530f29f"
         ]
     },
     "4cc0eb8c-ad7e-0fb4-bc5d-560f2b0c6921": {
@@ -1446,14 +1373,6 @@
         "dependencies": [
             "e1c78467-4247-9c7d-7886-1550fe133666",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "51f49d79-e41d-8366-a8cf-b29678312e86": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/XBot/Material Instances/Xbot Main.mtli.nasset",
-        "thumbnail": "f1db00ae-1dc2-eedd-284c-a1ccc20826fa",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "5372d48c-8149-ebf6-aeca-94b599ad7ec3": {
@@ -2340,18 +2259,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Coastal_Rocks/textures/T_Coastal_Rock_D.tex.nasset"
     },
-    "82f3529f-f8e2-b3c8-363f-b2169a57ea0e": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/XBot/SK_XBot.scene.nasset/SK XBot.mesh.nasset/SK XBot Xbot Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "51f49d79-e41d-8366-a8cf-b29678312e86",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "83db6d0e-960d-5c03-843e-7f7dc423bdf9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Clover/SC_Clover.scene.nasset/Clover 5.mesh.nasset/Thumbnails/Clover 5.mesh.nasset.tex.nasset"
@@ -2628,14 +2535,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Rock_Moss_1/textures/T_Rock_Moss_1_N.tex.nasset"
     },
-    "9587ce6c-b613-4c27-8fca-c66f0a3324c9": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/XBot/XBot_Walk.anim.nasset",
-        "dependencies": [
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8"
-        ]
-    },
     "961bc822-08fd-cfe5-f49f-18c46c75f44b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Celandine/textures/T_Celandine_N.tex.nasset"
@@ -2901,16 +2800,6 @@
             "d357b863-01eb-e29a-f408-4f093bce1262",
             "7f682569-eea5-f33b-c02b-c2ccd33b86ee",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "a724e2d3-d3f5-6c9d-b7af-1281815120e0": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/XBot/SK_XBot.scene.nasset/SK XBot.mesh.nasset/SK XBot XBot Joints.meshskin.nasset",
-        "dependencies": [
-            "d6ea4a66-c2ac-3c5f-a94c-d7d9253c8fac",
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8",
-            "ee1d0c24-ccce-5ef0-8d69-27d470278fdf"
         ]
     },
     "a8258843-5e66-1227-c3e8-8ff2a667a9e4": {
@@ -3287,11 +3176,6 @@
             "3e7597c1-7437-1258-d3bd-d6480bff262e"
         ]
     },
-    "c21f3cac-2980-fa6b-c73a-08f53c76afa8": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/XBot/SK_XBot.scene.nasset/SK XBot.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "c27128c6-51f2-d9fb-5f5c-f43e5c9cd057": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3567,18 +3451,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "d6ea4a66-c2ac-3c5f-a94c-d7d9253c8fac": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/XBot/SK_XBot.scene.nasset/SK XBot.mesh.nasset/SK XBot XBot Joints.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee1d0c24-ccce-5ef0-8d69-27d470278fdf",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "d9d6bb39-2cbb-c09d-d500-c83232ae1b35": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Rock_Moss_1/Material Instances/Thumbnails/Rock Moss 1.mtli.nasset.tex.nasset"
@@ -3681,18 +3553,6 @@
         "dependencies": [
             "ceb157cc-090e-e0a2-e393-0bd4639bb1d8",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "e36ff39f-85a5-47a4-9ee8-7f441f834030": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/XBot/Thumbnails/XBot.scene.nasset.tex.nasset"
-    },
-    "e3c0554b-c3b1-ffd1-5e4f-bf07eb428d69": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/XBot/SK_XBot.scene.nasset/SK_XBot.scene.nasset",
-        "dependencies": [
-            "1a26e71d-6a90-7088-eab7-a4051530f29f"
         ]
     },
     "e3eca1ed-d9a9-4be9-8dd4-b9236ce2dc87": {
@@ -3852,14 +3712,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Weed_Plant_02/SC_Weed.scene.nasset/Weed 3.mesh.nasset/Thumbnails/Weed 3.mesh.nasset.tex.nasset"
     },
-    "ee1d0c24-ccce-5ef0-8d69-27d470278fdf": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/XBot/Material Instances/XBot Joints.mtli.nasset",
-        "thumbnail": "19408caa-141a-c6dd-2024-63e08bc5af10",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "ee39328f-e34c-accd-9eb8-d6fd1a6a482c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3915,18 +3767,6 @@
     "f1c042e7-dff3-26ee-6eb4-61a99aa96b29": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Fort/textures/T_Stone_Wall_N.tex.nasset"
-    },
-    "f1db00ae-1dc2-eedd-284c-a1ccc20826fa": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/XBot/Material Instances/Thumbnails/Xbot Main.mtli.nasset.tex.nasset"
-    },
-    "f2de2883-1a3c-432f-bfe1-21bd048e4a47": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/XBot/XBot_Idle.anim.nasset",
-        "dependencies": [
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8"
-        ]
     },
     "f2df7abb-e22f-145b-002f-c27671685352": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3998,14 +3838,6 @@
             "c1aa19a2-5239-74c1-8801-0e7760805189",
             "6fc1ce43-a58e-fc80-1a7c-01eee8536030",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "f4938e8d-4b1c-4052-a801-5d51cdad96f6": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/XBot/XBot_Run.anim.nasset",
-        "dependencies": [
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8"
         ]
     },
     "f5212422-a526-5b07-0803-232bae2aaf04": {
